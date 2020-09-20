@@ -1,0 +1,129 @@
+PRID;PDID;LATI;LNGI;UTMZ;DATM;EAST;NORT;ELEV;SAYR;MNUM;LABO;DRAI;INFR;ORGA;WRBC;WRBS;CLAF;CLAV;PHAS;CLAN;STAX;CLFR
+SN002/KAL;BP001;14,26786041;-16,31536102;28;WGS 1984;358109;1577752;;1990;3;;M;;;;;FLe;1989;;;;
+SN008C/A001;BP001;15,64472008;-15,99233341;28;WGS 1984;393637;1729885;;1992;2;;W;;;;;ARh;1989;;Dior-deck de dépression;;
+SN008C/A004;BP001;15,5144701;-16,28252792;28;WGS 1984;362445;1715641;;1992;2;;W;;;;;ARg;1989;;Dior Deck de vallée;;
+SN008C/A013;BP001;15,5574398;-16,27855492;28;WGS 1984;362899;1720393;;1992;4;;W;;;;;ARo;1989;;Dior de plaine dunaire;;
+SN008C/B007;BP001;15,46761036;-16,32261086;28;WGS 1984;358113;1710485;;1992;3;;M;;;;;ARg;1989;;Dior  Deck de vallée sèche;;
+SN008C/B012;BP001;15,38475037;-16,35280609;28;WGS 1984;354816;1701337;;1992;4;;W;;;;;ARo;1989;;Dior de plaine dunaire;;
+SN008C/B014;BP001;15,40694046;-16,08749962;28;WGS 1984;383304;1703631;;1992;4;;S;;;;;ARo;1989;;Dior de plaine dunaire;;
+SN008C/B13;BP001;15,40299988;-16,40049934;28;WGS 1984;349709;1703388;;1992;4;;W;;;;;ARh;1989;;Dior de plaine dunaire;;
+SN102IAO;FL0;14,90536022;-16,86058426;28;WGS 1984;297491;1648067;;2003;;;W;;;Vetic Plinthosols;;PTe;1998;;;;
+SN103IAO;FL0;14,92096996;-16,94788933;28;WGS 1984;290475;1650502;;2003;;;W;;;Haplic Ferralsols;;FRh;1998;;;;
+SN105IAO;FL0;14,91666985;-17,07083321;28;WGS 1984;277241;1650145;;2003;;;P;;;Areni-Calcaric Gleysols;;GLe;1998;;;;
+SN112IAO;FL0;14,90536022;-16,86055756;28;WGS 1984;276762;1652611;;2003;;;W;;;Calci-Sodic Vertisols;;VRe;1998;;;;
+SN113IAO;FL0;14,9106102;-17,00677872;28;WGS 1984;290211;1651390;;2003;;;W;;;Endogleyic Cambisols (Calcaric);;CMg;1998;;;;
+SN118IAO;FL0;14,88599968;-17,01300049;28;WGS 1984;293310;1641470;;2003;;;W;;;Abrupti-Endogleyic Luvisols;;LVg;1998;;;;
+SN121IAO;FL0;14,92500019;-17,07125092;28;WGS 1984;277205;1651068;;2003;;;M;;;Areni-Gleyic Fluvisols;;FLe;1998;;;;
+SN204IAO;FL0;14,70199966;-16,89500046;28;WGS 1984;279545;1654497;;2003;;;S;;;Hapli-Eutric Arenosols;;ARh;1998;;;;
+SN206IAO;FL0;14,84000015;-16,89999962;;WGS 1984;;;;2003;;;S;;;Skeletic Leptosols;;LPe;1998;;;;
+SNA006/C001;BP001;13,90999985;-15,52000046;28;WGS 1984;443822;1537834;;1993;5;;M;;;;;LXf;1989;;Deck Dior de plaine;;
+SNA007/C003;BP001;15,89861012;-13,83880997;28;WGS 1984;402889;1530722;;1991;3;;M;;;;;ARh;1989;;Dior des dunes aplanies;;Sol ferrugineux tropical peu lessivé
+SNA009/C003;BP001;14,56589031;-14,8388052;28;WGS 1984;517363;1610318;;1991;3;;W;;;;;LXf;1989;;Dior de plaine résiduelle;;
+SNA010/C003;BP001;13,79660988;-15,59169483;28;WGS 1984;436044;1525312;;1991;4;;I;;;;;LXf;1989;;;;Sol ferralitique à réserve calcique, à caractère hydromorphe
+SNB013/C003;BP001;13,76721954;-15,52305603;28;WGS 1984;443457;1522044;;1991;5;;W;;;;;ARh;1989;;Dior de terrasse;;
+SNB101;SN005;12,52789974;-12,32689953;;WGS 1984;790500;1386400;;1966;;;W;;;;;;;;;;
+SNBAIP017;BP001;12,91940022;-16,33189964;28;WGS 1984;355500;1428600;;1994;6;;P;;;;;GLe;;;;;Sol hydromorphe minéraux argileux à pseudogley
+SNCC.143;IR65;13,02402973;-14,19472218;28;WGS 1984;587319;1439931;;1963;;;P;;;;;GLe;1989;;;;Sol hydromorphe sur argile de décantation
+SNCRZ13;IR65;15,18330002;-15,61660004;;WGS 1984;433760;1678700;;1984;;;W;;;;;ARl;1989;;;;
+SNCRZ45;IR65;15,50008011;-15,50002003;;WGS 1984;446370;1713700;;1984;;;W;;;;;ARh;1989;;;;
+SND07/C001;BP001;14,01000023;-15,68000031;28;WGS 1984;426568;1548938;;1993;5;;M;;;;;LVf;1989;;Deck Dior de dépression;;
+SND13/2;BP002;14,13589954;-15,39649963;;WGS 1984;457200;1562800;;1993;3;SN002;W;;;;;ACf;;PF;;;
+SND13/3;BP002;14,15219975;-15,3743;;WGS 1984;459600;1564600;;1993;3;SN002;W;;;;;RGd;;;;;
+SND13/6;BP002;14,14500046;-15,39190006;;WGS 1984;457700;1563800;;1993;4;SN002;W;;;Haplic Acrisol (dystric);dystri-hap;ACh;;;;;
+SNDIEP015;BP001;12,83467007;-16,36861038;28;WGS 1984;351476;1419246;;1994;6;;P;;;;;FLt;;;;;Sol sulfaté acide maturé à jarosite à moyenne profondeur
+SNE02/C003;BP001;13,90217018;-15,91100025;28;WGS 1984;401574;1537096;;1991;1;;W;;;;;LXf;1989;;Dior de glacis de raccordement;;Sol ferrugineux tropical lessivé
+SNE06/C001;BP001;14,06000042;-15,51000023;28;WGS 1984;444938;1554422;;1995;2;;W;;;;;AL;1989;;Dior Deck de vallée secondaire;;
+SNE09/C001;BP001;14,06690025;-15,57050037;28;WGS 1984;438400;1555200;;1995;2;;W;;;;;LXf;1989;;Deck Dior de plaine;;
+SNE10/C003;BP001;14,24874973;-16,35002708;28;WGS 1984;354356;1575658;;1991;1;;I;;;;;LXf;1989;;Deck Dior de plaine;;
+SNE12/C001;BP001;13,95820045;-15,6239996;28;WGS 1984;432600;1543200;;1995;2;;W;;;;;LXf;1989;;Dior Deck sur de bas plateaux;;
+SNE16/C001;BP001;13,96000004;-15,80000019;28;WGS 1984;413590;1543448;;1995;4;;W;;;;;ARh;1989;;Dior de basse plaine;;Sol peu évolué d'apport alluvial
+SNE17/C001;BP001;13,93000031;-15,53999996;28;WGS 1984;441667;1540051;;1995;4;;W;;;;;LXf;1989;;Dior Deck de glacis de raccordement;;
+SNGb10;IR65;14,95318985;-16,64105606;28;WGS 1984;323514;1653802;;1956;;;W;;;;;LXf;1989;;;;Sol ferrugineux tropical peu lessivé
+SNH047;SN001;;;28;WGS 1984;;;;1985;;;W;;;Hapli-Skeletic Regosol (Dystric);;RGd;1989;SK;;Typic Ustorthent;Sol peu évolué d'érosion
+SNH071;SN001;;;28;WGS 1984;;;;1985;;;W;;;Hypoluvic Arenosol  (Eutric);;ARl;1989;;;alfic ustipsamment;Sol ferrugineux tropical faiblement lessivé
+SNH253;SN001;;;28;WGS 1984;;;;1985;;;M;;;Mazic Vertisol (Calcaric);;VRk;1989;TK;;Typic Chromustert;Vertisol lithomorphe à surface massive
+SNH431;SN001;;;28;WGS 1984;;;;1985;;;I;;;Gleyic Fluvisol (Eutric);;FLe;1989;;;typic fluvaquent;Sol hydromorphe à pseudogley
+SNH524;SN001;;;28;WGS 1984;;;;1985;;;S;;;Bruni-Hypoluvic Arenosol (Eutric);;ARl;1989;;;alfic ustipsamment;Sol brun subaride
+SNH525;SN001;;;28;WGS 1984;;;;1985;;;W;;;Haplic Arenosols (Eutric);;ARh;1989;;;typic ustipsamment;Sol brun subaride
+SNKAF1/3;BP001;14,08220005;-15,59000015;;WGS 1984;436300;1556900;;1990;2;;S;;;;;ARh;;;;;
+SNKAF1/53;BP001;13,93229961;-15,49520016;;WGS 1984;446500;1540300;;;;;M;;;;;VRk;;;;;
+SNKAP5;BP001;15,07318974;-16,46761131;28;WGS 1984;342260;1666946;;1991;10;;W;;;;;LXf;1989;;Dior;;
+SNKF35/C001;BP001;14,07409954;-15,56029987;28;WGS 1984;439500;1556000;;1990;2;;W;;;;;LXf;1989;;Dior de plaine;;
+SNKF54/C001;BP001;;;;WGS 1984;;;;;;;W;;;;;;;;;;
+SNMAIG65;IR65;14,76366997;-16,84238815;28;WGS 1984;301683;1632999;;;;;W;;;;;LXf;1989;;;;Sol ferrugineux tropical lessivé sur grès sablo-argileux
+SNMAIG69;IR65;14,78314018;-17,05558395;28;WGS 1984;278747;1635353;;1959;;;M;;;;;VRe;1989;;;;Vertisol lithomorphe à surface de structure massive (sol modal sur marnes)
+SNORSTOM/MKE53;SN003;13,98519993;-14,86289978;;WGS 1984;514800;1546100;;1982;;SN004;W;;;Skeleti-Lithic Leptosols;lith-skel;LPq;;;;;
+SNP15E/7P;BP001;14,46150017;-17,05772209;28;WGS 1984;278192;1599761;;1991;12;;P;;;;;GLd;1989;;Bane;;
+SNP2E/7P;BP001;12,82771969;-11,69377804;28;WGS 1984;858958;1420386;;1991;12;;P;;;;;ACg;1989;;;;
+SNPA13/C011;BP001;14,16460037;-15,51589966;;WGS 1984;444322;1566000;;;;;W;;;;;RGd;;;;;
+SNRAF51;BP001;12,82120037;-12,30449963;28;WGS 1984;792600;1418900;;1987;3;;I;;;;;GLe;;;;;Sol peu évolué non climatique d'apport alluvial, hydromorphe
+SNRAF64;SN004;12,79660034;-12,28269958;;WGS 1984;795000;1416200;;1987;3;;P;;;;;GLe;;;;;Sol hydromorphe à pseudogley de surface
+SNRSM01;SM98;12,69999981;-12,22999954;28;WGS 1984;776937;1405316;;;;;M;;;;;RGe;1989;;;;Sol gravillonnaire
+SNRSM02;SM98;16,52000046;-15,22999954;28;WGS 1984;475457;1826470;;;;;W;;;;;ARb;1989;;;;Sol brun-rouge subaride
+SNRSM03;SM98;14,78999996;-16,59000015;28;WGS 1984;328878;1635706;;1956;;;W;;;;;ARa;1989;;;;Sol ferrugineux tropical faiblement lessivé sur sable
+SNRSM05;SM98;12,57332993;-15,42125034;28;WGS 1984;454242;1389988;;;;;W;;;;;ACf;1989;;;;Sol faiblement ferrallitique
+SNRSM06;SM98;16,3999691;-16,00727844;28;WGS 1984;392442;1813446;;;;;P;;;;;SCh;1989;;;;Sol halomorphe
+SNRSM07;SM98;16,54516983;-15,2252779;28;WGS 1984;475964;1829254;;;;;I;;;;;GLd;1989;;;;Sol hydromorphe
+SNRSM09;SM98;13,02653027;-15,68972206;28;WGS 1984;425212;1440172;;;;;P;;;;;FLt;1989;;;;Sol sulfaté acide
+SNS101;SN001;;;28;WGS 1984;;;;1985;;;W;;;Hapli-Ferric Acrisol (Abruptic, Chromic);;ACf;1989;;;Ultic Haplustox;Sol ferrugineux tropical lessivé à taches diffuses
+SNS102;SN001;;;28;WGS 1984;;;;1985;;;W;;;Endogleyic Regosol (Dystric? );;RGd;1989;;;Typic Ustorthent;Sol peu évolué d'apport, hydromorphe
+SNS104;SN001;;;28;WGS 1984;;;;1985;;;W;;;Pisoplinthic Acrisols (Chromic);;ACp;1989;PF;;Ultic Haplustox;Sol ferrugineux tropical lessivé, induré
+SNS2.P7;SN002;14,15408993;-16,20027351;;WGS 1984;370460;1565100;;1986;11;SN003;V;;;;;FLt;1989;;Sulfatosol à jarosite;;
+SNSF103;RA70;13,89999962;-16,36666679;28;WGS 1984;352308;1537116;;1970;7;;P;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSF117;RA70;13,73332977;-16,38333321;28;WGS 1984;350429;1537116;;1970;7;;W;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSF137;RA70;14,03332996;-16,38333321;28;WGS 1984;350621;1551850;;1970;7;;V;;;;;GLe;;;;;Sol hydromorphe peu humifère
+SNSF142;RA70;13,68332958;-16,41666603;28;WGS 1984;346792;1513153;;1970;7;;M;;;;;;;;;;
+SNSF143;RA70;13,68332958;-16,41666794;28;WGS 1984;346791;1513152;;1970;7;;W;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSF157;RA70;13,69999981;-16,39999962;28;WGS 1984;348605;1514986;;1970;7;;V;;;;;;;;;;
+SNSF16;RA70;13,88333035;-16,35000038;28;WGS 1984;354024;1535178;;1970;6;;W;;;;;ARh;;;;;Sol peu évolué non climatique d'apport
+SNSF166;RA70;13,94999981;-16,38333321;28;WGS 1984;350568;1542632;;1970;7;;M;;;;;VRe;;;;;Vertisol
+SNSF169;RA70;13,96667004;-16,36666679;28;WGS 1984;352379;1544465;;1970;7;;V;;;;;GLe;;;;;Sol hydromorphe peu humifère
+SNSF174;RA70;14,01667023;-16,26666641;28;WGS 1984;363212;1549936;;1970;7;;V;;;;;GLe;;;;;Sol hydromorphe peu humifère
+SNSF175;RA70;14,01667023;-16,28333282;28;WGS 1984;361412;1549946;;1970;7;;W;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSF188;RA70;13,96667004;-16,31666756;28;WGS 1984;357781;1544434;;1970;7;;V;;;;;GLe;;;;;Sol hydromorphe peu humifère
+SNSF190;RA70;13,93332958;-16,33333397;28;WGS 1984;355959;1540757;;1970;7;;W;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSF200;RA70;13,93332958;-16,26666641;28;WGS 1984;363162;1540718;;1970;7;;V;;;;;GLe;;;;;Sol hydromorphe peu humifère
+SNSF204;RA70;13,89999962;-16,26666641;28;WGS 1984;363143;1537030;;1970;7;;M;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSF206;RA70;13,88333035;-16,26666641;28;WGS 1984;363133;1535187;;1970;7;;M;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSF207;RA70;13,88333035;-16,26666641;28;WGS 1984;363132;1535186;;1970;7;;W;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSF215;RA70;13,88333035;-16,31666756;28;WGS 1984;357730;1535216;;1970;7;;M;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSF38;RA70;13,80000019;-16,38333321;28;WGS 1984;347098;1524226;;1970;7;;M;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSF53;RA70;13,76667023;-16,33333206;28;WGS 1984;355856;1522320;;1970;7;;P;;;;;GLe;;;;;Sol hydromorphe peu humifère
+SNSF61;RA70;13,81667042;-16,36666679;28;WGS 1984;352226;1527839;;1970;7;;M;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSF70;RA70;13,76667023;-16,39999962;28;WGS 1984;348717;1522229;;1970;7;;M;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSF81;RA70;13,80000019;-16,38333321;28;WGS 1984;349425;1527077;;1970;7;;W;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSF87;RA70;13,73332977;-16,38333321;28;WGS 1984;350429;1518662;;1970;7;;W;;;;;LXf;;;;;Sol ferrugineux tropical lessivé
+SNSILP01;BP001;13,97994041;-14,5621109;28;WGS 1984;547293;1545518;;1991;12;;W;;;;;LXf;1989;;;;
+SNSYNACf;;;;;;;;;;;;W;;;;;ACf;;;;;
+SNSYNACh;;;;;;;;;;;;W;;;;;ACh;;;;;
+SNSYNACo;;;;;;;;;;;;W;;;;;ACo;;;;;
+SNSYNACp;;;;;;;;;;;;W;;;;;ACp;;;;;
+SNSYNARb;;;;;;;;;;;;W;;;;;ARb;;;;;
+SNSYNARg;;;;;;;;;;;;I;;;;;ARg;;;;;
+SNSYNARh;;;;;;;;;;;;S;;;;;ARh;;;;;
+SNSYNARo;;;;;;;;;;;;S;;;;;ARo;;;;;
+SNSYNCMc;;;;;;;;;;;;W;;;;;CMc;;;;;
+SNSYNCMd;;;;;;;;;;;;W;;;;;CMd;;;;;
+SNSYNCMe;;;;;;;;;;;;W;;;;;CMe;;;;;
+SNSYNCMg;;;;;;;;;;;;I;;;;;CMg;;;;;
+SNSYNCMo;;;;;;;;;;;;W;;;;;CMo;;;;;
+SNSYNCMv;;;;;;;;;;;;M;;;;;CMv;;;;;
+SNSYNCMx;;;;;;;;;;;;W;;;;;CMx;;;;;
+SNSYNFLd;;;;;;;;;;;;P;;;;;FLd;;;;;
+SNSYNFLt;;;;;;;;;;;;V;;;;;FLt;;;;;
+SNSYNFRh;;;;;;;;;;;;W;;;;;FRh;;;;;
+SNSYNGLd;;;;;;;;;;;;P;;;;;GLd;;;;;
+SNSYNGLe;;;;;;;;;;;;P;;;;;GLe;;;;;
+SNSYNGLk;;;;;;;;;;;;P;;;;;GLk;;;;;
+SNSYNGLu;;;;;;;;;;;;V;;;;;GLu;;;;;
+SNSYNLPd;;;;;;;;;;;;S;;;;;LPd;;;;;
+SNSYNLPe;;;;;;;;;;;;S;;;;;LPe;;;;;
+SNSYNLPk;;;;;;;;;;;;W;;;;;LPk;;;;;
+SNSYNLXf;;;;;;;;;;;;W;;;;;LXf;;;;;
+SNSYNRGd;;;;;;;;;;;;W;;;;;RGd;;;;;
+SNSYNRGe;;;;;;;;;;;;W;;;;;RGe;;;;;
+SNSYNRGg;;;;;;;;;;;;I;;;;;RGg;;;;;
+SNSYNSCg;;;;;;;;;;;;P;;;;;SCg;;;;;
+SNSYNSNh;;;;;;;;;;;;I;;;;;SNh;;;;;
+SNSYNVRe;;;;;;;;;;;;M;;;;;VRe;;;;;
+SNZ1.P21;SN002;14,20100212;-16,21497536;;WGS 1984;368900;1570300;;1987;11;SN003;P;;;;;SCg;1989;;Salisol sulfaté;;

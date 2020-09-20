@@ -1,0 +1,763 @@
+ATTRIBUTE;CODE;DESCRIPTION;ORDER
+ATTR;100;Soluble CO3-;24
+ATTR;101;Exchangeable Calcium;25
+ATTR;102;Exchangeable Magnesium;26
+ATTR;103;Exchangeable Sodium;27
+ATTR;104;Exchangeable Potassium;28
+ATTR;105;Exchangeable Aluminium;29
+ATTR;106;Exchangebla acidity;30
+ATTR;107;CEC soil;31
+ATTR;108;Total carbonate equivalent;32
+ATTR;109;Gypsum;33
+ATTR;110;Total carbon;34
+ATTR;111;Total nitrogen;35
+ATTR;112;P2O5;36
+ATTR;113;Phosphate retention;37
+ATTR;114;Fe dithionite;38
+ATTR;115;Al dithionite;39
+ATTR;116;Fe pyrophosphate;40
+ATTR;117;Al pyrophosphate;41
+ATTR;118;Clay Mineralogy;42
+ATTR;77;Very coarse sand;1
+ATTR;78;Coarse sand;2
+ATTR;79;Medium sand;3
+ATTR;80;Fine sand;4
+ATTR;81;Very fine sand;5
+ATTR;82;Total sand;6
+ATTR;83;Silt;7
+ATTR;84;Clay;8
+ATTR;85;Particle size class;9
+ATTR;86;Bulk density;10
+ATTR;87;Moisture content at various tensions;11
+ATTR;88;Hydraulic conductivity;12
+ATTR;89;Infiltration rate;13
+ATTR;90;pH H2O;14
+ATTR;91;pH KCl;15
+ATTR;92;Electrical conductivity;16
+ATTR;93;Soluble Na+;17
+ATTR;94;Soluble Ca++;18
+ATTR;95;Soluble Mg++;19
+ATTR;96;Soluble K+;20
+ATTR;97;Soluble Cl-;21
+ATTR;98;Soluble SO4-;22
+ATTR;99;Soluble HCO3-;23
+CLAY;AL;Allophane;1
+CLAY;CH;Chloritic;2
+CLAY;IL;Illitic;3
+CLAY;IN;Interstratified or mixed;4
+CLAY;KA;Kaolinitic;5
+CLAY;MO;Montmorilonitic;6
+CLAY;SE;Sesquioxidic;7
+CLAY;VE;Vermiculitic;8
+DIAH;AL;Albic;16
+DIAH;AR;Argic;6
+DIAH;CA;Calcic;11
+DIAH;CB;Cambic;8
+DIAH;FA;Ferralic;10
+DIAH;FI;Fimic;3
+DIAH;GY;Gypsic;13
+DIAH;HI;Histic;1
+DIAH;MO;Mollic;2
+DIAH;NA;Natric;7
+DIAH;OC;Ochric;5
+DIAH;PC;Petrocalcic;12
+DIAH;PG;Petrogypsic;14
+DIAH;SP;Spodic;9
+DIAH;SU;Sulphuric;15
+DIAH;UM;Umbric;4
+DIAP;AD;Andic properties;2
+DIAP;CA;Calcaric;4
+DIAP;CO;Calcareous;3
+DIAP;FA;Ferralic properties;6
+DIAP;FI;Ferric properties;7
+DIAP;FL;Fluvic properties;8
+DIAP;GE;Geric properties;9
+DIAP;GL;Gleyic and stagnic properties;10
+DIAP;GY;Gypsiferous;11
+DIAP;HU;Strongly humic;22
+DIAP;IN;Interfingering;12
+DIAP;NI;Nitric properties;13
+DIAP;OR;Organic soil materials;14
+DIAP;PE;Permafrost;15
+DIAP;PL;Plinthite;16
+DIAP;RO;Continuous hard rock;5
+DIAP;SA;Salic properties;17
+DIAP;SI;Slickensides;18
+DIAP;SL;Soft powdery lime;21
+DIAP;SM;Smeary consistence;19
+DIAP;SO;Sodic properties;20
+DIAP;SU;Sulphidic materials;23
+DIAP;TC;Abrupt textural change;1
+DIAP;TO;Tonguing;24
+DIAP;VE;Vertic properties;25
+DIAP;WM;Weatherable minerals;26
+DISS;1;Slightly dissected;1
+DISS;2;Dissected;2
+DISS;3;Strongly dissected;3
+DRAI;E;Excessively well drained;1
+DRAI;I;Imperfectly drained;5
+DRAI;M;Moderately well drained;4
+DRAI;P;Poorly drained;6
+DRAI;S;Somewhat excessively well drained;2
+DRAI;V;Very poorly drained;7
+DRAI;W;Well drained;3
+ERAA;1;0-5%;1
+ERAA;2;5-10%;2
+ERAA;3;10-25%;3
+ERAA;4;25-50%;4
+ERAA;5;= 50%;5
+ERDE;E;Extreme;4
+ERDE;M;Moderate;2
+ERDE;S;Slight;1
+ERDE;V;Severe;3
+ERTY;A;Wind erosion and deposition;9
+ERTY;D;Shifting sand;10
+ERTY;G;Gully erosion;4
+ERTY;L;Wind deposition;8
+ERTY;N;No visible evidence of erosion;1
+ERTY;P;Deposition by water;6
+ERTY;R;Rill erosion;3
+ERTY;S;Sheet erosion;2
+ERTY;T;Tunnel erosion;5
+ERTY;U;Type of erosion unknown;12
+ERTY;W;Water and wind erosion;7
+ERTY;Z;Salt deposition;11
+FLDU;1;Less than 1 day;1
+FLDU;2;1-15 days;2
+FLDU;3;15-30 days;3
+FLDU;4;30-90 days;4
+FLDU;5;90-180 days;5
+FLDU;6;180-360 days;6
+FLDU;7;Continuously;7
+FLFR;A;Annually;5
+FLFR;B;Biennually;6
+FLFR;D;Daily;2
+FLFR;F;Once every 2-5 years;7
+FLFR;M;Monthly;4
+FLFR;N;None;1
+FLFR;R;Rare (less than once in every 10 years);9
+FLFR;T;Once every 5-10 years;8
+FLFR;U;Unknown;10
+FLFR;W;Weekly;3
+HBDI;A;Abrupt: 0-2 cm;1
+HBDI;C;Clear: 2-5 cm;2
+HBDI;D;Diffuse: =15 cm;4
+HBDI;G;Gradual: 5-15 cm;3
+HYPS;1;< 300 m;1
+HYPS;10;1500-3000 m;10
+HYPS;11;3000-5000 m;11
+HYPS;12;> 5000 m;12
+HYPS;2;300-600 m;2
+HYPS;3;600-1500 m;3
+HYPS;4;1500-300 m;4
+HYPS;5;> 3000 m;5
+HYPS;6;< 200 m;6
+HYPS;7;200-400 m;7
+HYPS;8;> 400 m;8
+HYPS;9;600-1500 m;9
+INFR;D;Moderately slow (0.5-2.0 cm/h);3
+INFR;E;Extremely rapid (=> 25.0 cm/h);7
+INFR;M;Moderate (2.0-6.0 cm/h);4
+INFR;R;Rapid (6.0-12.5 cm/h);5
+INFR;S;Slow (0.1-0.5 cm/h);2
+INFR;V;Very slow (<0.1 cm/h);1
+INFR;Y;Very rapid (12.5-25.0 cm/h);6
+ISOC;AD;Andorra;
+ISOC;AE;United Arab Emirates;
+ISOC;AF;Afghanistan;
+ISOC;AG;Antigua and Barbuda;
+ISOC;AI;Anguilla;
+ISOC;AL;Albania;
+ISOC;AM;Armenia;
+ISOC;AN;Netherlands Antilles;
+ISOC;AO;Angola;
+ISOC;AQ;Antarctica;
+ISOC;AR;Argentina;
+ISOC;AS;American Samoa;
+ISOC;AT;Austria;
+ISOC;AU;Australia;
+ISOC;AW;Aruba;
+ISOC;AZ;Azerbaijan;
+ISOC;BB;Barbados;
+ISOC;BD;Bangladesh;
+ISOC;BE;Belgium;
+ISOC;BF;Burkina Faso;
+ISOC;BG;Bulgaria;
+ISOC;BH;Bahrain;
+ISOC;BI;Burundi;
+ISOC;BJ;Benin;
+ISOC;BN;Brunei Darussalam;
+ISOC;BO;Bolivia;
+ISOC;BR;Brazil;
+ISOC;BS;Bahamas;
+ISOC;BT;Bhutan;
+ISOC;BU;Burma;
+ISOC;BV;Bouvet Island;
+ISOC;BW;Botswana;
+ISOC;BY;Belarus;
+ISOC;BZ;Belize;
+ISOC;CA;Canada;
+ISOC;CC;Cocos Islands;
+ISOC;CF;Central African Republic;
+ISOC;CG;Congo;
+ISOC;CH;Switzerland;
+ISOC;CI;Côte d'Ivoire;
+ISOC;CK;Cook Islands;
+ISOC;CL;Chile;
+ISOC;CM;Cameroon;
+ISOC;CN;China;
+ISOC;CO;Colombia;
+ISOC;CR;Costa Rica;
+ISOC;CS;Czechoslovakia;
+ISOC;CU;Cuba;
+ISOC;CV;Cape Verde;
+ISOC;CX;Christmas Island;
+ISOC;CY;Cyprus;
+ISOC;DE;Germany, Federal Republic of;
+ISOC;DJ;Djibouti;
+ISOC;DK;Denmark;
+ISOC;DM;Dominica;
+ISOC;DO;Dominican Republic;
+ISOC;DZ;Algeria;
+ISOC;EC;Ecuador;
+ISOC;EE;Estonia;
+ISOC;EG;Egypt;
+ISOC;EH;Western Sahara;
+ISOC;ES;Spain;
+ISOC;ET;Ethiopia;
+ISOC;FI;Finland;
+ISOC;FJ;Fiji;
+ISOC;FK;Falkland Islands;
+ISOC;FM;Micronesia;
+ISOC;FO;Faroe Islands;
+ISOC;FR;France;
+ISOC;GA;Gabon;
+ISOC;GB;United Kingdom;
+ISOC;GD;Grenada;
+ISOC;GE;Georgia;
+ISOC;GF;French Guiana;
+ISOC;GH;Ghana;
+ISOC;GI;Gibraltar;
+ISOC;GL;Greenland;
+ISOC;GM;Gambia;
+ISOC;GN;Guinea;
+ISOC;GP;Guadeloupe;
+ISOC;GQ;Equatorial Guinea;
+ISOC;GR;Greece;
+ISOC;GT;Guatemala;
+ISOC;GU;Guam;
+ISOC;GW;Guinea-Bissau;
+ISOC;GY;Guyana;
+ISOC;HK;Hong Kong;
+ISOC;HM;Heard and McDonald Islands;
+ISOC;HN;Honduras;
+ISOC;HR;Croatia;
+ISOC;HT;Haiti;
+ISOC;HU;Hungary;
+ISOC;ID;Indonesia;
+ISOC;IE;Ireland;
+ISOC;IL;Israel;
+ISOC;IN;India;
+ISOC;IO;British Indian Ocean Territory;
+ISOC;IQ;Iraq;
+ISOC;IR;Iran,Islamic Republic of;
+ISOC;IS;Iceland;
+ISOC;IT;Italy;
+ISOC;JM;Jamaica;
+ISOC;JO;Jordan;
+ISOC;JP;Japan;
+ISOC;KE;Kenya;
+ISOC;KG;Kyrgystan;
+ISOC;KH;Kampuchea, democratic;
+ISOC;KI;Kiribati;
+ISOC;KN;St.Kitts and Nevis;
+ISOC;KP;Korea,Democratic People's Republic;
+ISOC;KR;Korea, Republic of;
+ISOC;KW;Kuwait;
+ISOC;KY;Cayman Islands;
+ISOC;KZ;Kazakhstan;
+ISOC;LA;Lao People's Democratic Republic;
+ISOC;LB;Lebanon;
+ISOC;LC;Saint Lucia;
+ISOC;LI;Liechtenstein;
+ISOC;LK;Sri Lanka;
+ISOC;LR;Liberia;
+ISOC;LS;Lesotho;
+ISOC;LT;Lithuania;
+ISOC;LU;Luxembourg;
+ISOC;LY;Libyan Arab Jamahiriya;
+ISOC;MA;Morocco;
+ISOC;MC;Monaco;
+ISOC;MD;Moldova, Republic of;
+ISOC;MG;Madagascar;
+ISOC;MH;Marshall Islands;
+ISOC;ML;Mali;
+ISOC;MN;Mongolia;
+ISOC;MO;Macau;
+ISOC;MP;Northern Mariana Islands;
+ISOC;MQ;Martinique;
+ISOC;MR;Mauritania;
+ISOC;MS;Montserrat;
+ISOC;MT;Malta;
+ISOC;MU;Mauritius;
+ISOC;MV;Maldives;
+ISOC;MW;Malawi;
+ISOC;MX;Mexico;
+ISOC;MY;Malaysia;
+ISOC;MZ;Mozambique;
+ISOC;NA;Namibia;
+ISOC;NC;New Caledonia;
+ISOC;NE;Niger;
+ISOC;NF;Norfolk Island;
+ISOC;NG;Nigeria;
+ISOC;NI;Nicaragua;
+ISOC;NL;Netherlands;
+ISOC;NO;Norway;
+ISOC;NP;Nepal;
+ISOC;NR;Nauru;
+ISOC;NT;Neutral Zone;
+ISOC;NU;Niue;
+ISOC;NZ;New Zealand;
+ISOC;OM;Oman;
+ISOC;PA;Panama;
+ISOC;PE;Peru;
+ISOC;PF;French Polynesia;
+ISOC;PG;Papua New Guinea;
+ISOC;PH;Philippines;
+ISOC;PK;Pakistan;
+ISOC;PL;Poland;
+ISOC;PM;St.Pierre and Miquelon;
+ISOC;PN;Pitcairn;
+ISOC;PR;Puerto Rico;
+ISOC;PT;Portugal;
+ISOC;PW;Palau;
+ISOC;PY;Paraguay;
+ISOC;QA;Qatar;
+ISOC;RE;Reunion;
+ISOC;RO;Romania;
+ISOC;RU;Russian Federation;
+ISOC;RW;Rwanda;
+ISOC;SA;Saudi Arabia;
+ISOC;SB;Solomon Islands;
+ISOC;SC;Seychelles;
+ISOC;SD;Sudan;
+ISOC;SE;Sweden;
+ISOC;SG;Singapore;
+ISOC;SH;St.Helena;
+ISOC;SJ;Svalbard and Jan Mayen;
+ISOC;SL;Sierra Leone;
+ISOC;SM;San Marino;
+ISOC;SN;Senegal;
+ISOC;SO;Somalia;
+ISOC;SR;Suriname;
+ISOC;ST;Sao Tome and Principe;
+ISOC;SU;Ussr;
+ISOC;SV;El Salvador;
+ISOC;SY;Syrian Arab Republic;
+ISOC;SZ;Swaziland;
+ISOC;TC;Turks and Caicos Islands;
+ISOC;TD;Chad;
+ISOC;TF;French Southern Territories;
+ISOC;TG;Togo;
+ISOC;TH;Thailand;
+ISOC;TJ;Tajikistan;
+ISOC;TK;Tokelau;
+ISOC;TM;Turkmenistan;
+ISOC;TN;Tunisia;
+ISOC;TO;Tonga;
+ISOC;TP;East Timor;
+ISOC;TR;Turkey;
+ISOC;TT;Trinidad and Tobago;
+ISOC;TV;Tuvalu;
+ISOC;TW;Taiwan,Province of China;
+ISOC;TZ;Tanzania, United Republic of;
+ISOC;UA;Ukraine;
+ISOC;UG;Uganda;
+ISOC;UM;US. Minor Outlying Islands;
+ISOC;US;United States;
+ISOC;UY;Uruguay;
+ISOC;UZ;Uzbekistan;
+ISOC;VA;Vatican City State;
+ISOC;VC;St.Vincent and the Grenadines;
+ISOC;VE;Venezuela;
+ISOC;VG;Virgin Islands (U.K.);
+ISOC;VI;Virgin Islands (U.S.);
+ISOC;VN;Viet Nam;
+ISOC;VU;Vanuatu;
+ISOC;WF;Wallis and Futuna Islands;
+ISOC;WS;Samoa;
+ISOC;YD;Yemen, Democratic;
+ISOC;YE;Yemen;
+ISOC;YU;Yugoslavia;
+ISOC;ZA;South Africa;
+ISOC;ZM;Zambia;
+ISOC;ZR;Zaire;
+ISOC;ZW;Zimbabwe;
+KIND;CLOU;Degree of cloudiness (octas);10
+KIND;ECOL;Colorado pan evaporation (mm);21
+KIND;EPAN;Class A pan evaporation (mm);20
+KIND;EPIC;Evaporation, Piche (mm);22
+KIND;HMAX;Maximum relative humidity during 24 hour period (%);14
+KIND;HMIN;Minimum relative humidity during 24 hour period (%);13
+KIND;HUMI;Average relative humidity during 24 hour period (%);12
+KIND;PETH;Hargreaves potential evapotranspiration (mm);24
+KIND;PETP;Penman potential evapotranspiration (mm);23
+KIND;PETT;Thornthwaite potential evapotranspiration (mm);15
+KIND;RADI;Total radiation (MJ/m2/day);8
+KIND;RAIN;Precipitation total (mm);1
+KIND;RDAY;Number of rainy days;2
+KIND;RMAX;Maximum 24-hour rainfall (mm);3
+KIND;RR75;Rainfall reliability (75% quantile);4
+KIND;SUNH;Hours of bright sunshine per day;9
+KIND;TEMP;Mean temperature during 24-hour period;5
+KIND;TMAX;Maximum temperature during a 24-hour period;7
+KIND;TMIN;Minimum temperature during a 24-hour period;6
+KIND;VAPP;Vapour pressure (mbar);11
+KIND;WDAY;Wind speed during day at 2 m during 24 hour period;16
+KIND;WDIR;Dominant wind direction at 2 m during 24 hour period;18
+KIND;WIND;Mean wind velocity at 2 m during 24 hour period;15
+KIND;WNIG;Wind speed during night at 2 m during 24 hour period;17
+KIND;WRIS;Risk of occurrence of adverse weather events (0.0-1.0);19
+LITH;I;Igneous rock;1
+LITH;IA;Acid igneous rock;2
+LITH;IA1;Granite;3
+LITH;IA2;Grano-diorite;4
+LITH;IA3;Quartz-diorite;5
+LITH;IA4;Rhyiolite;6
+LITH;IB;Basic igneous rock;10
+LITH;IB1;Gabbro;11
+LITH;IB2;Basalt;12
+LITH;IB3;Dolerite;13
+LITH;II;Intermediate igneous rock;7
+LITH;II1;Andesite, trachyte, phonolite;8
+LITH;II2;Diorite-syenite;9
+LITH;IU;Ultrabasic igneous rock;14
+LITH;IU1;Peridotite;15
+LITH;IU2;Pyroxenite;16
+LITH;IU3;Ilmenite, magnetite, ironstone, serpentine;17
+LITH;M;Metamorphic rock;18
+LITH;MA;Acid metamorphic rock;19
+LITH;MA1;Quartzite;20
+LITH;MA2;Gneiss, migmatite;21
+LITH;MA3;Slate, phyllite, (pellitic rocks);22
+LITH;MA4;Schist;23
+LITH;MB;Basic metamorphic rock;24
+LITH;MB1;Slate, phyllite (pelitic rocks);25
+LITH;MB2;Schist;26
+LITH;MB3;Gneiss rich in ferro-magnesian minerals;27
+LITH;MB4;Metamorphic limestone (marble);28
+LITH;S;Sedimentary rock;29
+LITH;SC;Clastic sediments;30
+LITH;SC1;Conglomerate, breccia;31
+LITH;SC2;Sandstone, greywacke, arkose;32
+LITH;SC3;Siltstone, mudstone, claystone;33
+LITH;SC4;Shale;34
+LITH;SC5;Ironstone;35
+LITH;SE;Evaporites;40
+LITH;SE1;Anhydrite. gypsum;41
+LITH;SE2;Halite;42
+LITH;SO;Organic (sedimentary rock);36
+LITH;SO1;Limestone, other carbonate rocks;37
+LITH;SO2;Marl and other mixtures;38
+LITH;SO3;Coals, bitumen & related rocks;39
+LITH;U;Unconsolidated;43
+LITH;UC;Colluvial unconsolidated rock;47
+LITH;UE;Eolian unconsolidated rock;48
+LITH;UF;Fluvial;44
+LITH;UG;Glacial unconsolidated rock;49
+LITH;UL;Lacustrine unconsolidated rock;45
+LITH;UM;Marine unconsolidated rock;46
+LITH;UO;Organic unconsolidated rock;51
+LITH;UP;Pyroclastic unconsolidated rock;50
+LNDF;C;Land with composite landforms;19
+LNDF;CD;Major depression;22
+LNDF;CL;Narrow plateau;21
+LNDF;CV;Valley;20
+LNDF;L;Level land;1
+LNDF;LD;Depression;4
+LNDF;LF;Low-gradient foot slope;5
+LNDF;LL;Plateau;3
+LNDF;LP;Plain;2
+LNDF;LV;Valley floor;6
+LNDF;S;Sloping land;7
+LNDF;SE;Medium-gradient escarpment zone;10
+LNDF;SH;Medium gradient hill;9
+LNDF;SM;Medium gradient mountain;8
+LNDF;SP;Dissected plain;13
+LNDF;SR;Ridges;11
+LNDF;SU;Mountainous highland;12
+LNDF;T;Steep land;14
+LNDF;TE;High-gradient escarpment zone;17
+LNDF;TH;High-gradient hill;16
+LNDF;TM;High-gradient mountain;15
+LNDF;TV;High-gradient valleys;18
+LUSE;A;Land used for cultivation of crops;7
+LUSE;AA;Annual field cropping;8
+LUSE;AA1;Shifting cultivation;9
+LUSE;AA2;Fallow system cultivation;10
+LUSE;AA3;Ley system cultivation;11
+LUSE;AA4;Rainfed arable cultivation;12
+LUSE;AA5;Wet rice cultivation;13
+LUSE;AA6;Irrigated cultivation;14
+LUSE;AP;Perennial field cropping;15
+LUSE;AP1;Non-irrigated perennial field cropping;16
+LUSE;AP2;Irrigated perennial field cropping;17
+LUSE;AT;Tree and shrub cropping;18
+LUSE;AT1;Non-irrigated tree crop cultivation;19
+LUSE;AT2;Irrigated tree crop cultivation;20
+LUSE;AT3;Non-irrigated shrub crop cultivation;21
+LUSE;AT4;Irrigated shrub crop cultivation;22
+LUSE;E;Extraction of products from the environment;39
+LUSE;EH;Hunting and fishing;41
+LUSE;EV;Exploitation of natural vegetation;40
+LUSE;F;Forestry;31
+LUSE;FN;Exploitation of natural forest and woodland;32
+LUSE;FN1;Selective felling;33
+LUSE;FN2;Clear felling;34
+LUSE;FP;Plantation forestry;35
+LUSE;H;Animal husbandry;23
+LUSE;HE;Extensive grazing;24
+LUSE;HE1;Nomadism;25
+LUSE;HE2;Semi-nomadism;26
+LUSE;HE3;Ranching;27
+LUSE;HI;Intensive grazing;28
+LUSE;HI1;Intensive grazing - animal production;29
+LUSE;HI2;Intensive grazing - dairying;30
+LUSE;M;Mixed farming;36
+LUSE;MF;Agro-forestry;37
+LUSE;MP;Agro-pastoralism;38
+LUSE;P;Nature protection;42
+LUSE;PD;Degradation control;47
+LUSE;PD1;Degradation control - non-interference;48
+LUSE;PD2;Degradation control - interference;49
+LUSE;PN;Nature and game preservation;43
+LUSE;PN1;Reserves;44
+LUSE;PN2;Parks;45
+LUSE;PN3;Wildlife management;46
+LUSE;S;Residential, industrial use;1
+LUSE;SC;Recreation;5
+LUSE;SI;Industrial use;3
+LUSE;SR;Residential use, cities;2
+LUSE;ST;Transport (roads, railways etc.);4
+LUSE;SX;Excavations, quarries;6
+LUSE;U;Not used and not managed;50
+MINA;A;Abundant: 40-80%;6
+MINA;C;Common: 5-15%;4
+MINA;D;Dominant: =80%;7
+MINA;F;Few: 2-5%;3
+MINA;M;Many: 15-40%;5
+MINA;N;None: 0%;1
+MINA;V;Very few: 0-2%;2
+MINS;C;Coarse: =20 mm;4
+MINS;F;Fine: 2-6 mm;2
+MINS;M;Medium: 6-20 mm;3
+MINS;V;Very fine: <2 mm;1
+MRSF;D;Dissected areas with drainage density > 10 km/km2);8
+MRSF;G;Gullied;6
+MRSF;H;Hummocky;1
+MRSF;K;Towered;3
+MRSF;L;Slightly dissected (drainage density < 10 km/km2);9
+MRSF;M;Mounded coverage by isolated mounds (> 2.5 m high);2
+MRSF;R;Ridged;4
+MRSF;S;Strongly dissected (drainage density > 25 km/km2);7
+MRSF;T;Terraced;5
+ORGA;F;"Fibric; weakly decomposed";1
+ORGA;H;"Hemic; moderately decomposed";2
+ORGA;S;"Sapric; highly decomposed";3
+PHAS;AN;Anthraquic;1
+PHAS;DU;Duripan;2
+PHAS;FR;Fragipan;3
+PHAS;GE;Gelundic;4
+PHAS;GI;Gilgai;5
+PHAS;IN;Inundic;6
+PHAS;LI;Lithic;7
+PHAS;PF;Petroferric;8
+PHAS;PH;Phreatic;9
+PHAS;PL;Placic;10
+PHAS;RU;Rudic;11
+PHAS;SA;Salic;12
+PHAS;SK;Skeletic;13
+PHAS;SO;Sodic;14
+PHAS;TK;Takyric;15
+PHAS;YR;Yermic;16
+POSI;A;All;5
+POSI;D;Lowest;4
+POSI;H;High;1
+POSI;L;Low;3
+POSI;M;Middle;2
+PSCL;C;Clay;12
+PSCL;CL;Clay loam;8
+PSCL;L;Loam;6
+PSCL;LS;Loamy sand;2
+PSCL;S;Sand;1
+PSCL;SC;Sandy clay;10
+PSCL;SCL;Sandy clay loam;7
+PSCL;SI;Silt;5
+PSCL;SIC;Silty clay;11
+PSCL;SICL;Silty clay loam;9
+PSCL;SIL;Silty loam;4
+PSCL;SL;Sandy loam;3
+RDEP;D;Deep (100-150 cm);4
+RDEP;M;Moderately deep (50-100 cm);3
+RDEP;S;Shallow (30-50 cm);2
+RDEP;V;Very shallow (< 30 cm);1
+RDEP;X;Very deep (= 150 cm);5
+RKSC;A;Abundant (40-80%);6
+RKSC;C;Common (5-15%);4
+RKSC;D;Dominant (= 80%);7
+RKSC;F;Few (2-5%);3
+RKSC;M;Many (15-40%);5
+RKSC;N;None (0%);1
+RKSC;V;Very few (0-2%);2
+RSLO;CU;Cuesta-shaped;9
+RSLO;DO;Dome-shaped;10
+RSLO;DU;Dune-shaped;14
+RSLO;F;0-2%  flat;2
+RSLO;G;2-5%  gently undulating;3
+RSLO;IM;With intermontane plains (coverage at least 15%);15
+RSLO;IN;Inselberg covered (at least 1% of level land);13
+RSLO;KA;Strong karst;17
+RSLO;R;8-15%  rolling;5
+RSLO;RI;Ridged;11
+RSLO;S;15-30%  moderately steep;6
+RSLO;T;30-60%  steep;7
+RSLO;TE;Terraced;12
+RSLO;U;5-8%  undulating;4
+RSLO;V;> 60%  very steep;8
+RSLO;W;0-2%  flat, wet;1
+RSLO;WE;With wetlands (occupying at least 15%);16
+SCAP;M;Moderate;3
+SCAP;N;None;1
+SCAP;S;Strong;4
+SCAP;W;Weak;2
+SCFM;C;Concave;2
+SCFM;I;Irregular slope;4
+SCFM;U;Uniform slope;1
+SCFM;V;Convex;3
+SDRA;E;Extremely slow;1
+SDRA;R;Rapid;4
+SDRA;S;Slow;2
+SDRA;V;Very rapid;5
+SDRA;W;Well;3
+STGR;M;Moderate;3
+STGR;N;Structureless;1
+STGR;S;Strong;4
+STGR;W;Weak;2
+STSC;A;Abundant (40-80%);6
+STSC;C;Common (5-15%);4
+STSC;D;Dominant (= 80%);7
+STSC;F;Few (2-5%);3
+STSC;M;Many (15-40%);5
+STSC;N;None (0%);1
+STSC;V;Very few (0-2%);2
+STSI;C;Coarse;4
+STSI;F;Fine;2
+STSI;M;Medium;3
+STSI;V;Very fine;1
+STSI;X;Very coarse;5
+STTY;A;Angular blocky;4
+STTY;B;Crumb;7
+STTY;C;Columnar;3
+STTY;G;Granular;6
+STTY;M;Massive;8
+STTY;N;Single grain;9
+STTY;P;Platy;1
+STTY;R;Prismatic;2
+STTY;S;Subangular blocky;5
+STTY;W;Wedge shaped;10
+TEXT;C;Clayey;2
+TEXT;L;Loamy;3
+TEXT;S;Sandy;4
+TEXT;X;Extremely sandy;5
+TEXT;Y;Very clayey;1
+TYPE;M;Morpho-pedological map (soil landscapes);2
+TYPE;O;Other map;3
+TYPE;S;Pure soil map;1
+VEGE;I;Closed forest;1
+VEGE;IA;Mainly evergreen forest;2
+VEGE;IA1;Tropical ombrophilous forest (tropical rain forest);3
+VEGE;IA10;Temperate and subpolar evergreen needle-leaved forest;12
+VEGE;IA2;Tropical and subtropical evergreen seasonal forest;4
+VEGE;IA3;Tropical and subtropical semi-deciduous forest;5
+VEGE;IA4;Subtropical ombrophilous forest;6
+VEGE;IA5;Mangrove forest;7
+VEGE;IA6;Temperate and subpolar evergreen ombrophilous forest;8
+VEGE;IA7;Temperate evergreen seasonal broad-leaved forest;9
+VEGE;IA8;Winter-rain evergreen broad-leaved sclerophyllous forest;10
+VEGE;IA9;Tropical and subtropical evergreen needle-leaved forest;11
+VEGE;IB;Mainly deciduous forest;13
+VEGE;IB1;Tropical and subtropical drought-deciduous forest;14
+VEGE;IB2;Cold-deciduous forest with evergreen trees (or shrubs);15
+VEGE;IB3;Cold-deciduous forest without evergreen trees;16
+VEGE;IC;Extremely Xeromorphic forest;17
+VEGE;IC1;Sclerophyllous-dominated extremely xeromorphic forest;18
+VEGE;IC2;Thorn forest;19
+VEGE;IC3;Mainly succulent forest;20
+VEGE;II;Woodland;21
+VEGE;IIA;Mainly evergreen woodland;22
+VEGE;IIA1;Evergreen broad-leaved woodland;23
+VEGE;IIA2;Evergreen needle-leaved forest (woodland);24
+VEGE;IIB;Mainly deciduous woodland;25
+VEGE;IIB1;Drought-deciduous woodland;26
+VEGE;IIB2;Cold-deciduous woodland with evergreen trees;27
+VEGE;IIB3;Cold-deciduous woodland without evergreen trees;28
+VEGE;IIC;Extremely xeromorphic woodland;29
+VEGE;IIC1;Sclerophillous-dominated extremely xeromorphic woodland;30
+VEGE;IIC2;Thorn woodland;31
+VEGE;IIC3;Mainly succulent woodland;32
+VEGE;III;Scrub (shrubland or thicket);33
+VEGE;IIIA;Mainly evergreen shrub;34
+VEGE;IIIA1;Evergreen broad-leaved shrubland (or thicket);35
+VEGE;IIIA2;Evergreen needle-leaved and microphyllous shrubland;36
+VEGE;IIIB;Mainly deciduous scrub;37
+VEGE;IIIB1;Drought-deciduous scrub with evergreen woody plants admixed;38
+VEGE;IIIB2;Drought-decid. scrub without evergreen woody plants admixed;39
+VEGE;IIIB3;Cold-deciduous scrub;40
+VEGE;IIIC;Extremely xeromorphic (subdesert) shrubland;41
+VEGE;IIIC1;Mainly evergreen subdesert shrubland;42
+VEGE;IIIC2;Deciduous subdesert shrubland;43
+VEGE;IV;Dwarf-scrub and related communities;44
+VEGE;IVA;Mainly evergreen dwarf-scrub;45
+VEGE;IVA1;Evergreen dwarf-scrub thicket;46
+VEGE;IVA2;Evergreen dwarf-shrubland;47
+VEGE;IVA3;Mixed evergreen dwarf-shrub and herbaceous formation;48
+VEGE;IVB;Mainly deciduous dwarf-scrub;49
+VEGE;IVB1;Facultatively drought-deciduous dwarf-thicket;50
+VEGE;IVB2;Obligatory, drought-deciduous dwarf-thicket;51
+VEGE;IVB3;Cold-deciduous dwarf-thicket (or dwarf-shrubland);52
+VEGE;IVC;Extremely xeromorphic dwarf-shrubland;53
+VEGE;IVC1;Mainly evergreen subdesert dwarf-shrubland;54
+VEGE;IVC2;Deciduous subdesert dwarf-shrubland;55
+VEGE;IVD;Tundra;56
+VEGE;IVD1;Mainly bryophyte tundra;57
+VEGE;IVD2;Mainly lichen tundra;58
+VEGE;IVE;Mossy bog formations with dwarf-shrub;59
+VEGE;IVE1;Raised bog;60
+VEGE;IVE2;Non-raised bog;61
+VEGE;V;Herbaceous vegetation;62
+VEGE;VA;Tall graminoid vegetation;63
+VEGE;VA1;Tall grassland with a tree synusia covering 10-40%;64
+VEGE;VA2;Tall grassland with a tree synusia covering less than 10%;65
+VEGE;VA3;Tall grassland with a synusia of shrubs;66
+VEGE;VA4;Tall grassland with a woody synusia of mainly tuft plants;67
+VEGE;VA5;Tall grassland practically without woody synusia;68
+VEGE;VB;Medium tall grassland;69
+VEGE;VB1;Medium tall grassland with a tree synusia covering 10-40%;70
+VEGE;VB2;Medium tall grassland with tree synusia cover less than 10%;71
+VEGE;VB3;Medium tall grassland with a synusia of shrubs;72
+VEGE;VB4;Medium tall grassland with an open synusia of tuft plants;73
+VEGE;VB5;Medium tall grassland practically without woody synusia;74
+VEGE;VC;Short grassland;75
+VEGE;VC1;Short grassland with a tree synusia covering 10-40%;76
+VEGE;VC2;Short grassland with a tree synusia covering less than 10%;77
+VEGE;VC3;Short grassland with a synusia of shrubs;78
+VEGE;VC4;Short grassland with an open synusia of tuft plants;79
+VEGE;VC5;Short grassland practically without woody synusia;80
+VEGE;VC6;Short to medium tall mesophytic grassland;81
+VEGE;VC7;Graminoid tundra;82
+VEGE;VD;Forb vegetation;83
+VEGE;VD1;Tall forb communities;84
+VEGE;VD2;Low forb communities;85
+VEGE;VE;Hydromorphic fresh-water vegetation;86
+VEGE;VE1;Rooted fresh-water communities;87
+VEGE;VE2;Free floating fresh-water communities;88
