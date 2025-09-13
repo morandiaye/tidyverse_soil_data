@@ -79,28 +79,9 @@ soil_transformed %>%
 
 Tu peux inclure ici des captures d’écran ou graphiques générés, ou des notebooks (.Rmd) démontrant :
 
-Analyse exploratoire de la distribution de pH
+- Analyse exploratoire de la distribution de pH
 
-Cartographie spatiale si applicable
+- Cartographie spatiale si applicable
 
-Comparaison entre types de sols / sites / profondeur
-
-Organisation du projet
-
-Voici une structure de dossier suggérée :
-
-tidyverse_soil_data/
-├── data/
-│   ├── soil_raw/                   # Données brutes non modifiées
-│   ├── soil_clean/                 # Données nettoyées / prêtes à l’analyse
-│   └── metadata/                   # Fichiers de métadonnées
-├── R/                               # Fonctions R pour le pipeline
-│   ├── import_soil_data.R
-│   ├── clean_soil_data.R
-│   └── visualize_soil_data.R
-├── notebooks/                       # RMarkdown / Jupyter pour exemples
-├── output/                          # Graphiques, rapports générés
-├── README.md                       # Ce fichier
-└── LICENSE
-
+- Comparaison entre types de sols / sites / profondeur
 
